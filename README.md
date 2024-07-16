@@ -1,4 +1,4 @@
-# NFT Marketplace V3
+# NFT Marketplace 
 
 Create an NFT marketplace on top of your NFT collection on **any** EVM-compatible blockchain.
 
@@ -21,14 +21,6 @@ Create an NFT marketplace on top of your NFT collection on **any** EVM-compatibl
 1. Deploy a [Marketplace V3](https://thirdweb.com/thirdweb.eth/MarketplaceV3) contract
 2. Clone this repository using the [CLI](https://portal.thirdweb.com/cli)
 3. Plug your contract addresses and chain in the [contractAddresses.ts](/const/contractAddresses.ts) file.
-
-<br/>
-
-### Deploy the Marketplace V3 contract
-
-Head to the [MarketplaceV3](https://thirdweb.com/thirdweb.eth/MarketplaceV3) contract page on the thirdweb dashboard.
-
-Deploy the marketplace to the same network as your NFT collection.
 
 <br/>
 
